@@ -114,7 +114,7 @@ The implemented methods can be grouped into three main ensemble families.
 
 |               Bagging               |                Boosting               |                Stacking               |
 | :---------------------------------: | :-----------------------------------: | :-----------------------------------: |
-| 
+
 
 ### Bagging-Based Models
 
@@ -160,12 +160,6 @@ The results demonstrate that ensemble techniques can behave differently dependin
 
 ---
 
-## Contributors
-
-* [Linggar Maretva Cendani](https://github.com/LinggarM) — [linggarmc@gmail.com](mailto:linggarmc@gmail.com)
-* Adi Wibowo — [bowo.adi@live.undip.ac.id](mailto:bowo.adi@live.undip.ac.id)
-
----
 
 ## License
 
